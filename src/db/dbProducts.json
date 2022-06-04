@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Real Madrid CF",
+    "image": "img/real.jpg",
+    "extraInfo": "Camisa Títular",
+    "price": 300000
+  },
+  {
+    "id": 2,
+    "name": "FC Barcelona",
+    "image": "img/barcelona.jpg",
+    "extraInfo": "Camisa Títular",
+    "price": 250000
+  },
+  {
+    "id": 3,
+    "name": "Paris FC",
+    "image": "img/paris.png",
+    "extraInfo": "Camisa Títular",
+    "price": 350000
+  },
+  {
+    "id": 4,
+    "name": "Manchester City FC",
+    "image": "img/city.jpg",
+    "extraInfo": "Camisa Títular",
+    "price": 280000
+  },
+  {
+    "id": 5,
+    "name": "Bayern de Múnich",
+    "image": "img/bayern.jpg",
+    "extraInfo": "Camisa Títular",
+    "price": 240000
+  },
+  {
+    "id": 6,
+    "name": "Juventus FC",
+    "image": "img/juventus.png",
+    "extraInfo": "Camisa Títular",
+    "price": 200000
+  },
+  {
+    "id": 7,
+    "name": "AC Milán",
+    "image": "img/milan.png",
+    "extraInfo": "Camisa Suplente",
+    "price": 180000
+  },
+  {
+    "id": 8,
+    "name": "Liverpool FC",
+    "image": "img/liverpool.jpg",
+    "extraInfo": "Camisa Títular",
+    "price": 260000
+  }
+]
